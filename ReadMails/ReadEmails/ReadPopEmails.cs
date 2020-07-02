@@ -4,7 +4,7 @@ using MailKit.Security;
 
 namespace ReadEmails
 {
-	class PrReadPopEmailsogram
+	class ReadPopEmails
 	{
 		public static void Main(string[] args)
 		{
