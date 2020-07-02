@@ -1,0 +1,15 @@
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\ReadEmails.deps.json
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\ReadEmails.dll
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\obj\Debug\netcoreapp3.1\ReadEmails.csprojAssemblyReference.cache
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\obj\Debug\netcoreapp3.1\ReadEmails.AssemblyInfoInputs.cache
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\obj\Debug\netcoreapp3.1\ReadEmails.AssemblyInfo.cs
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\ReadEmails.pdb
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\obj\Debug\netcoreapp3.1\ReadEmails.dll
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\obj\Debug\netcoreapp3.1\ReadEmails.pdb
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\ReadEmails.exe
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\ReadEmails.runtimeconfig.json
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\ReadEmails.runtimeconfig.dev.json
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\GitHub\ReadEmail\ReadMails\ReadEmails\obj\Debug\netcoreapp3.1\ReadEmails.csproj.CopyComplete
